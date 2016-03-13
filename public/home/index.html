@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>Express Test Home</title>
+
+    <link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="../stylesheets/jquery.fullpage.min.css">
+    <link rel="stylesheet" href="../stylesheets/unslider.css">
+    <link rel="stylesheet" href="../stylesheets/unslider-dots.css">
+    <link rel="stylesheet" href="../stylesheets/style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Hello Fullpage!</h1>
+    </div>
+    <div id="fullpages" class="pagesContainer">
+        <div class="section active">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 myTest">
+                        <div class="banner">
+                            <ul>
+                                <li>My slide</li>
+                                <li>Another slide</li>
+                                <li>My last slide</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 myTest">
+                        OK
+                    </div>
+                    <div class="col-md-9 myTest">
+                        <h3>第一屏</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h3>第二屏</h3>
+            <div class="fileWrap">
+                <input type="file" accept="image/*">
+                <button type="button">浏览</button>
+            </div>
+            <span class="fileName">请上传文件</span>
+            <div id="second"><button type="reset">Reset</button></div>
+        </div>
+        <div class="section">
+            <div class="slide">第三屏的第一屏</div>
+            <div class="slide">第三屏的第二屏</div>
+            <div class="slide">第三屏的第三屏</div>
+            <div class="slide">第三屏的第四屏</div>
+        </div>
+        <div class="section">
+            <h3>第四屏</h3>
+        </div>
+    </div>
+
+    <script src="../javascripts/jquery-2.2.1.min.js"></script>
+    <script src="../javascripts/jquery.redirect.min.js"></script>
+    <script src="../javascripts/bootstrap.min.js"></script>
+    <script src="../javascripts/jquery.fullpage.min.js"></script>
+    <script src="../javascripts/unslider-min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+//            var $fileName = $('.fileName');
+//            $('input[type=file]').change(function() {
+//                var path = $(this).val();
+////                alert(path);
+//                var fileName = path ? path.substr(path.lastIndexOf('\\') + 1) : '请上传文件';
+//                $fileName.text(fileName);
+//            });
+
+
+            var $file = $('input[type=file]');
+            var $fileName = $('.fileName');
+            $('.fileWrap button').click(function() {
+                $file.click();
+            });
+            $file.change(function() {
+                var path = $(this).val();
+                var fileName = path ? path.substr(path.lastIndexOf('\\') + 1) : '请上传文件';
+                $fileName.text(fileName);
+
+                var formData = new FormData();
+                formData.append('file', $file[0].files[0]);
+
+                $.ajax({
+                    url : '/logoupload',
+                    type : 'POST',
+                    data : formData,
+                    processData: false,  // tell jQuery not to process the data
+                    contentType: false,  // tell jQuery not to set contentType
+                    success : function(data) {
+                        console.log(data);
+                        console.log(data.tmpname);
+                        $().redirect('/', {'tmplogo': data.tmpname});
+                    }
+                });
+            });
+
+            $('#fullpages').fullpage({
+                //Navigation
+                menu: false,
+                lockAnchors: false,
+                anchors: [],
+                navigation: false,
+                navigationPosition: 'right',
+                navigationTooltips: ['firstSlide', 'secondSlide'],
+                showActiveTooltip: false,
+                slidesNavigation: true,
+                slidesNavPosition: 'bottom',
+
+                //Scrolling
+                css3: true,
+                scrollingSpeed: 700,
+                autoScrolling: true,
+                fitToSection: true,
+                fitToSectionDelay: 1000,
+                scrollBar: false,
+                easing: 'easeInOutCubic',
+                easingcss3: 'ease',
+                loopBottom: false,
+                loopTop: false,
+                loopHorizontal: true,
+                continuousVertical: false,
+                normalScrollElements: '#element1, .element2',
+                scrollOverflow: false,
+                touchSensitivity: 15,
+                normalScrollElementTouchThreshold: 5,
+
+                //Accessibility
+                keyboardScrolling: true,
+                animateAnchor: true,
+                recordHistory: true,
+
+                //Design
+                controlArrows: false,
+                verticalCentered: false,
+                resize: false,
+                sectionsColor: ['#f2f2f2', '#4BBFC3', '#7BAABE'],
+                //paddingTop: '3em',
+                //paddingBottom: '10px',
+                fixedElements: '#header, .footer',
+                responsiveWidth: 0,
+                responsiveHeight: 0,
+
+                //Custom selectors
+                sectionSelector: '.section',
+                slideSelector: '.slide',
+
+                //events
+                onLeave: function (index, nextIndex, direction) {
+                    console.log("onLeave: " + index + "==" + nextIndex + "==" + direction);
+                    var leavingSection = $(this);
+
+                    //after leaving section 2
+                    if(index == 1 && direction =='down'){
+                        console.log("leaving 1...");
+//                        $(".section").eq(2).remove();
+                        $("<div class='section fp-section'><h3>new section???</h3></div>").insertAfter($(".section").eq(1));
+                        $.fn.fullpage.reBuild();
+//                        console.log($("#fullpages").html());
+                    }
+//                    else if(index == 2 && direction == 'up'){
+//                        alert("Going to section 1!");
+//                    }
+                },
+                afterLoad: function (anchorLink, index) {
+                    console.log("afterLoad: " + anchorLink + "==" + index);
+                },
+                afterRender: function () {
+                    console.log("afterRender: ");
+                },
+                afterResize: function () {
+                    console.log("afterResize: ");
+                },
+                afterSlideLoad: function (anchorLink, index, slideAnchor, slideIndex) {
+                    console.log("afterSlideLoad: " + anchorLink + "==" + index + "==" + slideAnchor + "==" + slideIndex);
+                },
+                onSlideLeave: function (anchorLink, index, slideIndex, direction, nextSlideIndex) {
+                    console.log("onSlideLeave: " + anchorLink + "==" + index + "==" + slideIndex + "==" + direction + "==" + nextSlideIndex);
+                }
+            });
+
+            $('.banner').unslider({
+                speed: 500,               //  滚动速度
+                delay: 3000,              //  动画延迟
+                complete: function() {},  //  动画完成的回调函数
+                keys: true,               //  启动键盘导航
+                dots: true,               //  显示点导航
+                fluid: false,              //  支持响应式设计
+                arrows: false,
+                autoplay: true
+            });
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.header {
+    width:100%;height:64px;background:rgba(0,0,0,0.3);background-color:#7F7F7F;position:absolute;z-index: 10;min-width: 650px;overflow: hidden;
+}
+/*.pagesContainer{height:100%;z-index: 9;top:64px;}*/
+.section{padding-top:64px;}
+.myTest{background-color: rgba(86,61,124,.15);border: 1px solid rgba(86,61,124,.2);}
+.banner { margin:10px;}
+
+/*.fileWrap {*/
+  /*float: left;*/
+  /*position: relative;*/
+  /*width: 100px;*/
+  /*height: 30px;*/
+  /*overflow: hidden;*/
+/*}*/
+/*.fileWrap input[type=file] {*/
+  /*position: absolute;*/
+  /*top: 0;*/
+  /*left: 0;*/
+  /*width: 100px;*/
+  /*height: 30px;*/
+  /*opacity: 0;*/
+  /*filter: alpha(opacity=0);*/
+  /*cursor: pointer;*/
+/*}*/
+/*.fileWrap button {*/
+  /*width: 100%;*/
+  /*height: 100%;*/
+  /*background-color: #fff;*/
+  /*border: 1px solid #ddd;*/
+/*}*/
+/*.fileName {*/
+  /*float: left;*/
+  /*margin-left: 10px;*/
+  /*line-height: 30px;*/
+/*}*/
+
+.fileWrap {
+    float: left;
+    width: 100px;
+    height: 30px;
+}
+.fileWrap input[type=file] {
+    display: none;
+}
+.fileWrap button {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    outline: none;
+    cursor: pointer;
+}
+.fileName {
+    float: left;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+#second{
+    clear: both;
+}
