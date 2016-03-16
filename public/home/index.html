@@ -56,6 +56,7 @@
         </div>
         <div class="section">
             <h3>第四屏</h3>
+            <p>屏幕DPI:<span id="dpi"></span></p>
         </div>
     </div>
 
@@ -196,7 +197,28 @@
                 arrows: false,
                 autoplay: true
             });
+
+            $('#dpi').text(js_getDPI());
         });
+
+        function js_getDPI() {
+            var arrDPI = new Array();
+            if (window.screen.deviceXDPI != undefined) {
+                arrDPI[0] = window.screen.deviceXDPI;
+                arrDPI[1] = window.screen.deviceYDPI;
+                console.log("DPI not undefined!");
+            }
+            else {
+                console.log("DPI undefined!");
+                var tmpNode = document.createElement("DIV");
+                tmpNode.style.cssText = "width:1in;height:1in;position:absolute;left:0px;top:0px;z-index:99;visibility:hidden";
+                document.body.appendChild(tmpNode);
+                arrDPI[0] = parseInt(tmpNode.offsetWidth);
+                arrDPI[1] = parseInt(tmpNode.offsetHeight);
+                tmpNode.parentNode.removeChild(tmpNode);
+            }
+            return arrDPI;
+        }
 
     </script>
 </body>
