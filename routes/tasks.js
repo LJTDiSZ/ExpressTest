@@ -5,18 +5,21 @@ var express = require('express');
 var router = express.Router();
 
 var Task = require('../app/models/task');
+var TaskSchema = require('../app/schemas/task');
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-    Task.find({}, function(err, docs){
-        //console.log(docs);
+    Task.find({},"task owner tlen", function(err, docs){
+        console.log(docs[1].tlen);
+        console.log(docs[1]);
+        console.log(docs);
         res.render('tasks/index', { title: 'Todos index view', docs: docs });
     });
 });
 
 router.post('/', function(req, res){
     console.log(req.body.task);
-   var task = new Task({task:req.body.task});
+   var task = new Task({task:req.body.task, owner: req.body.owner});
     console.log(task);
     task.save(function(err){
         console.log("task saving");

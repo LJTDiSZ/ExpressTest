@@ -13,6 +13,20 @@ function validatePresenceOf(value){
 var TaskSchema = new Schema({
     task: { type:String },
     owner: { type:String }
+},{
+    toObject: {
+        virtuals: true
+    },
+    toJSON: {
+        virtuals: true
+    }
+});
+
+TaskSchema.set('toObject', { virtuals: true });
+TaskSchema.set('toJSON', { virtuals: true });
+
+TaskSchema.virtual('tlen').get(function(){
+    return this.task.length / 3;
 });
 
 module.exports = TaskSchema;
