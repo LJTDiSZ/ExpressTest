@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{background: #3c3c3c;}
+    </style>
+</head>
+<body>
+    <h1>Spinner demo</h1><input type="button" value="Click" id="start" /><input type="button" value="Click" id="stop" />
+    <div id="el">qi...</div>
+
+    <script src="../javascripts/jquery-2.2.1.min.js"></script>
+    <script src="../javascripts/spin.min.js"></script>
+    <script src="../javascripts/jquery.spin2.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $('input#start').click(function(){
+//                $('#el').spin('small') // Creates a 'small' Spinner using the text color of #el.
+//                $('#el').spin('large', '#fff') // Creates a 'large' white Spinner.
+//                alert("start");
+//                $.fn.spin.presets.flower = {
+//                    lines:   9
+//                    , length: 10
+//                    , width:  20
+//                    , radius:  0
+//                }
+//                $('#el').spin('flower', 'red')
+                $('#el').spin();
+            });
+
+            $('input#stop').click(function(){
+//                if (spinner != null) {spinner.stop();}
+                $('#el').spin(false);
+            });
+        });
+    </script>
+</body>
+</html>
