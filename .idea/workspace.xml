@@ -1,382 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6341fff9-047c-4f80-86f9-29fc5139302b" name="Default" comment="virtual fields?">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/chosen1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icon31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/awesome-bootstrap-checkbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/awesome-bootstrap-checkbox.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/awesome-bootstrap-checkbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/css/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/Font-Awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap-sprockets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-compass.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-mincer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-sprockets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_button-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_component-animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_dropdowns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_glyphicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_input-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_modals.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pager.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_popovers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_progress-bars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_scaffolding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_thumbnails.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_wells.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_center-block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_opacity.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap-sass-official/sache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/configBridge.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/.csscomb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/data/var/data_priv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/data/var/data_user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/build.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/build.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/build.less.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/build.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/home/loading1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/home/loading2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/home/loading3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery.spin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery.spin2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/spin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/spin.min.js" />
+    <list default="true" id="6341fff9-047c-4f80-86f9-29fc5139302b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/bamoon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/bunny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/cropped-darth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/cropped-darth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/darth-vader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/lion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/scorpion-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/bower-template.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/doc-includes/ContainerParams.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/doc-includes/NodeParams.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/doc-includes/ShapeParams.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/kinetic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/kinetic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/nodejs-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/presentation-schedule.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/BaseLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/DragAndDrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/FastLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Stage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/Util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Blur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Brighten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Emboss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Grayscale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/HSL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/HSV.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Invert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Kaleidoscope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Mask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Noise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Pixelate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Posterize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/RGB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Sepia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Solarize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/filters/Threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/Arrow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/Label.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/Path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/RegularPolygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/Star.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/plugins/TextPath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Arc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Ellipse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Rect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Ring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Sprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/src/shapes/Wedge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/Ghostscript_Tiger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/tiger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/assets/worldMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/functional/DragAndDropEvents-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/functional/MouseEvents-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/functional/TouchEvents-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/lib/stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/manual/manual-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/memLeakTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/memory/build-destroy-star.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/memory/build-destroy-text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/node-runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/bunnies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/common/random-squares.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/random-squares-dev.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/random-squares-v5.0.1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/rotate-cached-star.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/performance/rotate-star.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/runner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/setStats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Animation-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/BaseLayer-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Canvas-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Collection-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Container-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/DragAndDrop-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/FastLayer-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Global-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Group-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Layer-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Node-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Shape-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Stage-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Tween-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/Util-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Blur-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Brighten-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Emboss-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Enhance-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Grayscale-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/HSL-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/HSV-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Invert-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Kaleidoscope-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Mask-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Noise-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Pixelate-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Posterize-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/RGB-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Ripple-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Sepia-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Solarize-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/filters/Threshold-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/Arrow-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/Label-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/Path-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/RegularPolygon-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/Star-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/plugins/TextPath-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Arc-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Blob-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Circle-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Ellipse-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Image-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Line-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Polygon-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Rect-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Ring-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Spline-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Sprite-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Text-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/KineticJS-master/test/unit/shapes/Wedge-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/kineticjs-editable-text-master/source/kinetic-editable.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/home/index.html" afterPath="$PROJECT_DIR$/public/home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
     </list>
     <ignored path="ExpressTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -397,28 +177,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/home/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.25">
-              <caret line="53" column="30" selection-start-line="43" selection-start-column="24" selection-end-line="53" selection-end-column="30" />
-              <folding>
-                <element signature="e#4455#4501#0" expanded="false" />
-                <element signature="e#4540#5387#0" expanded="false" />
-                <element signature="e#5428#8911#0" expanded="false" />
-                <element signature="e#8949#9344#0" expanded="false" />
-                <element signature="e#10286#11089#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.75">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5601852">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="105" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -459,6 +235,7 @@
         <option value="$PROJECT_DIR$/public/home/loading3.html" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/public/home/index.html" />
+        <option value="$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/index.html" />
       </list>
     </option>
   </component>
@@ -590,7 +367,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="KineticJS-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -608,7 +385,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
+              <option name="myItemId" value="kineticjs-editable-text-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -626,7 +403,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="kineticjs-editable-text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -644,7 +425,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
+              <option name="myItemId" value="kineticjs-editable-text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -756,7 +545,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458835068323</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="virtual fields? loading tests">
+      <created>1458972103535</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458972103535</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -768,7 +563,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38285714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38285714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -797,7 +592,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="confirmation before delete" />
     <MESSAGE value="virtual fields?" />
-    <option name="LAST_COMMIT_MESSAGE" value="virtual fields?" />
+    <MESSAGE value="virtual fields? loading tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="virtual fields? loading tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,27 +602,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1097,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,13 +879,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.625">
           <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/spin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/jquery.spin2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84821427">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/home/loading3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3935185">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/home/loading2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11574074">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/home/loading1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/icon31.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/awesome-bootstrap-checkbox-master/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0913312">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4521605">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2175925">
+          <caret line="252" column="0" selection-start-line="252" selection-start-column="0" selection-end-line="269" selection-end-column="9" />
+          <folding>
+            <element signature="e#4455#4501#0" expanded="false" />
+            <element signature="e#4540#5387#0" expanded="false" />
+            <element signature="e#5428#8911#0" expanded="false" />
+            <element signature="e#8949#9344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1121,66 +959,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/jquery.spin2.js">
+    <entry file="file://$PROJECT_DIR$/public/kineticjs-editable-text-master/demo/basic/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84821427">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/home/loading3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3935185">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="35" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/home/loading2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11574074">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/home/loading1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.0">
-          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1458963753000" expanded="true" signature="1085:1125" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/icon31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.25">
-          <caret line="53" column="30" selection-start-line="43" selection-start-column="24" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <element signature="e#4455#4501#0" expanded="false" />
-            <element signature="e#4540#5387#0" expanded="false" />
-            <element signature="e#5428#8911#0" expanded="false" />
-            <element signature="e#8949#9344#0" expanded="false" />
-            <element signature="e#10286#11089#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5601852">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="105" />
+        <state vertical-scroll-proportion="0.75">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding />
         </state>
       </provider>
